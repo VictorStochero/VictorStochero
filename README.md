@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>🌍  I'm based in Rio Grande do Sul, Brasil<br>✉️  You can contact me at victor@stochero.dev<br>🧠  I'm learning Laravel, ReactJS and NextJS<br>🤝  I'm open to collaborating on non-profit causes</p>
+<p align="left">🌍  I'm based in Rio Grande do Sul, Brasil<br>✉️  You can contact me at victor@stochero.dev<br>🧠  I'm learning Laravel, ReactJS and NextJS<br>🤝  I'm open to collaborating on non-profit causes</p>
 
 ###
 
