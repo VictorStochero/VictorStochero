@@ -62,6 +62,3 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/VictorStochero/VictorStochero/output/snake.svg" alt="Snake animation" />
-
-###
