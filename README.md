@@ -5,9 +5,15 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/victorstochero/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <a href="https://www.linkedin.com/in/victorstochero/"><img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Whatsapp Logo"  /></a>
-  
+  <a href="https://www.linkedin.com/in/victorstochero/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/254388247612882944" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://wa.me/5555999271343" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
 </div>
 
 ###
@@ -26,7 +32,7 @@
 
 ###
 
-<p align="left">🌍  I'm based in Rio Grande do Sul, Brasil<br>✉️  You can contact me at victor@stochero.dev<br>🧠  I'm learning Laravel, ReactJS and NextJS<br>🤝  I'm open to collaborating on non-profit causes</p>
+<p align="left">I'm ... from ....<br><br>🌍  I'm based in Rio Grande do Sul, Brasil<br>✉️  You can contact me at victor@stochero.dev<br>🧠  I'm learning Laravel, ReactJS and NextJS<br>🤝  I'm open to collaborating on non-profit causes</p>
 
 ###
 
@@ -61,4 +67,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorStochero&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
 
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=VictorStochero&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/VictorStochero/VictorStochero/output/snake.svg" alt="Snake animation" />
+
+###
