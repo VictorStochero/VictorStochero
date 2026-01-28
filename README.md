@@ -1,51 +1,54 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <h1>Victor Stochero</h1>
+  <p><strong>Full-stack Developer</strong> · Laravel Specialist</p>
+  <p>Transformo processos manuais em soluções digitais rápidas, estáveis e de alto impacto.</p>
+  <p>
+    <a href="https://victors.dev" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=111827&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/victorstochero/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn" />
+    </a>
+    <a href="mailto:victor@stochero.dev" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Email" />
+    </a>
+    <a href="https://wa.me/5555999271343" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="WhatsApp" />
+    </a>
+  </p>
 </div>
 
-###
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/victorstochero/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/254388247612882944" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://wa.me/5555999271343" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-</div>
+### 👤 Sobre mim
 
-###
+Desenvolvedor full-stack com experiência sólida como freelancer, especializado no ecossistema PHP e Laravel. Meu foco é transformar processos de negócio manuais em soluções digitais automatizadas e de alto impacto.
 
-<h1 align="center">hey there 👋</h1>
+Atualmente, busco atuar em ambientes colaborativos e times de alta performance, aplicando minha mentalidade de "problem solver" para otimizar entregas e resolver desafios complexos com o auxílio de documentação técnica e IA.
 
-###
+- 🌍 **Localização:** Rio Grande do Sul, Brasil.
+- 🚀 **Especialidades:** Laravel, Livewire, FilamentPHP e FluxUI.
+- 🛠️ **Ambiente:** Windows com Laravel Herd Pro e PowerShell.
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
-
-<p align="left">I'm ... from ....<br><br>🌍  I'm based in Rio Grande do Sul, Brasil<br>✉️  You can contact me at victor@stochero.dev<br>🧠  I'm learning Laravel, ReactJS and NextJS<br>🤝  I'm open to collaborating on non-profit causes</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+### 🧰 Tecnologias
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img src="https://skillicons.dev/icons?i=php,laravel,alpinejs,tailwind,html,css,js,docker,git" height="50" alt="Tecnologias" />
+</div>
+
+<div align="left">
+    <img src="https://i.ibb.co/DD3ZPfhs/51960834.png" height="50" alt="Livewire" />
+  <img src="https://cdn.simpleicons.org/filament" height="50" alt="Filament" />
+  
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorStochero&bg_color=0d1117&color=ffffff&line=3b82f6&point=ffffff&area=true&hide_border=false" width="100%" />
+  </a>
 </div>
