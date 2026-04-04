@@ -28,7 +28,6 @@ Atualmente, busco atuar em ambientes colaborativos e times de alta performance, 
 
 - 🌍 **Localização:** Rio Grande do Sul, Brasil.
 - 🚀 **Especialidades:** Laravel, Livewire, FilamentPHP e FluxUI.
-- 🛠️ **Ambiente:** Windows com Laravel Herd Pro e PowerShell.
 
 ---
 
